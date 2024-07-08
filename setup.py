@@ -1,3 +1,9 @@
+'''
+This Python script sets up a package named 'tokeniser' with version '0.0.3'. The author is Eugene Evstafev, and the description, long_description, and other metadata are defined here.
+The package requires certain packages to be installed which are listed in the install_requires section. Classifiers are used to categorize and organize software packages into specific groups based on their functionality and intended audience.
+'''
+
+
 from setuptools import setup, find_packages
 
 setup(
