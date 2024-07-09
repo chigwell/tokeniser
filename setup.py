@@ -1,3 +1,10 @@
+'''
+This setup.py file is used to configure and package the 'tokeniser' project for distribution.
+The script specifies metadata such as the name, version, author, description, long_description, URL, packages, install requirements, classifiers, and the Python version required.
+It also uses the find_packages() function to automatically discover all the necessary packages.
+'''
+
+
 from setuptools import setup, find_packages
 
 setup(
