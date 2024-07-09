@@ -1,3 +1,8 @@
+'''
+This is a setup script for a Python package named 'tokeniser'. The script provides information about the package, such as its name, version, author, description, long description, URL, packages to include, installation requirements, classifiers, and Python version requirement.
+'''
+
+
 from setuptools import setup, find_packages
 
 setup(
