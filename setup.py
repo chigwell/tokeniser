@@ -1,3 +1,8 @@
+'''
+The setup.py file is a script used to configure the package for installation. It includes metadata such as the name, version, author, description, required packages, and classifiers for the Python Package Index (PyPI). In this case, it's setting up a project named 'tokeniser', authored by Eugene Evstafev.
+'''
+
+
 from setuptools import setup, find_packages
 
 setup(
