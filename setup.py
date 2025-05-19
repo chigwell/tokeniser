@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tokeniser',
-    version='0.0.3',
+    version='2025.5.190811',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='',
